@@ -30,4 +30,4 @@ export const SYMPTOMS_KEY_VALUE = [
   { key: 12, text: "a rash on skin, or discolouration of fingers or toes" },
 ];
 
-export const URL = 'http://192.168.133.129:8080';
+export const URL = 'http://localhost:8080';
